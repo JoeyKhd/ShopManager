@@ -1,0 +1,55 @@
+.header{
+    background-color: #ff7518;
+    color:white;
+    text-align:center;
+    margin-top:5px;
+}
+
+.container{
+    text-align:center;
+    margin-top:5px;
+    margin-bottom:5px;
+    width:100%;
+}
+
+#producttoevoegen{
+    border:5px #ff7518 !important;
+}
+
+.panel-default>.panel-heading {
+    /* background-image: -webkit-linear-gradient(top,#f5f5f5 0,#e8e8e8 100%); */
+    background-image: -o-linear-gradient(top,#f5f5f5 0,#e8e8e8 100%);
+    /* background-image: -webkit-gradient(linear,left top,left bottom,from(#f5f5f5),to(#e8e8e8)); */
+    background-image: linear-gradient(to bottom,#9b608f 0,#9b608f 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fff5f5f5', endColorstr='#ffe8e8e8', GradientType=0);
+    background-repeat: repeat-x;
+
+    color:white;
+}
+
+.footer{
+    text-align:center;
+    border-top: 3px solid #9b608f;
+    margin-left:10%;
+    margin-right:10%;
+}
+
+.headertitle{
+    background-color: #9b608f;
+    border-radius: 5px;
+
+}
+
+.head {
+    font-family: 'Lobster', cursive;
+    font-size:40px;
+}
+
+.backtomanager{
+    text-align:left;
+    margin-bottom:7px;
+    font-size:20px;
+}
+.leftalign{
+    text-align:left;
+}
