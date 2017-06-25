@@ -163,13 +163,13 @@
 								<i class="fa fa-arrow-right fa-2x" aria-hidden="true"></i>
                                     <b>
 								<select id="storeselect">
-									<option value="1">polsstokkopen.nl</option>
-									<option value="2">lijmwebshop.nl</option>
-									<option value="3">houtenbuitenmeubelen.nl</option>
-									<option value="4">briggspowerproducts.nl</option>
-									<option value="5">knalapparaten.nl</option>
-									<option value="6">plukkorven.nl</option>
-									<option value="7">gebruiktebriggsonderdelen.nl</option>
+									<option value="1"></option>
+									<option value="2"></option>
+									<option value="3"></option>
+									<option value="4"></option>
+									<option value="5"></option>
+									<option value="6"></option>
+									<option value="7"></option>
 								</select>
                                     </b>
 
